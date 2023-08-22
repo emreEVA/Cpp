@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 	int size;
 
-	cout << "Enter a size of tree: ";
+	cout << "Enter a size of triangle: ";
 	cin >> size;
 	int temp = size;
 
